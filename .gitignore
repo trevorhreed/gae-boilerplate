@@ -54,5 +54,6 @@ docs/_build/
 target/
 
 scripts/bower_components/
+scripts/node_modules/
 scripts/.sass-cache/
 scripts/tmp/
